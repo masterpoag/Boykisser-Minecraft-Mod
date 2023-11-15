@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 400,
+  "experience": 1,
+  "ingredient": {
+    "item": "boykisser:raw_boykisserium"
+  },
+  "result": "boykisser:boykisserium"
+}

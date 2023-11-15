@@ -1,0 +1,8 @@
+{
+  "metal_detector_found_ore": {
+    "subtitles": "sounds.boykisser.theme_song",
+    "sounds": [
+      "boykisser:metal_detector_found_ore"
+    ]
+  }
+}

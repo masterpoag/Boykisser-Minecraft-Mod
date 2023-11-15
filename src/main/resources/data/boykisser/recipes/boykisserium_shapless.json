@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item" : "boykisser:boykisserium_block"
+    }],
+
+  "result": {
+    "item": "boykisser:boykisserium",
+    "count": 9
+  }
+}
