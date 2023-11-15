@@ -23,6 +23,7 @@ public class ModCreativeModeTab {
                         pOutput.accept(ModBlocks.BOYKISSERIUM_BLOCK.get());
                         pOutput.accept(ModBlocks.DEEPSLATE_BOYKISSERIUM_ORE.get());
                         pOutput.accept(ModBlocks.BOYKISSERIUM_ORE.get());
+                        pOutput.accept(ModBlocks.RAW_BOYKISSERIUM_BLOCK.get());
                     })
                     .build());
 

@@ -25,6 +25,11 @@ public class ModBlocks {
                 .strength(6f).requiresCorrectToolForDrops())
     );
 
+    public static final RegistryObject<Block> RAW_BOYKISSERIUM_BLOCK = registerBlock("raw_boykisserium_block",
+            ()-> new Block(BlockBehaviour.Properties.copy(Blocks.STONE)
+                    .strength(6f).requiresCorrectToolForDrops())
+    );
+
     public static final RegistryObject<Block> BOYKISSERIUM_ORE = registerBlock("boykisserium_ore",
             ()-> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.STONE)
                     .strength(6f).requiresCorrectToolForDrops(),
