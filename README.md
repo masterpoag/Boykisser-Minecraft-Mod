@@ -36,7 +36,7 @@ To install head to [Releases](https://github.com/masterpoag/Boykisser-Minecraft-
 ###
 
 <div align="left">
-  <a href="Colby.poag@gmail.com" target="_blank">
+  <a href="mailto:Colby.poag@gmail.com?subject=Boykisser%20Mod" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://paypal.me/masterpoag?country.x=US&locale.x=en_US" target="_blank">
