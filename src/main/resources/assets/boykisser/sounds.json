@@ -4,5 +4,11 @@
     "sounds": [
       "boykisser:metal_detector_found_ore"
     ]
+  },
+  "boykisser": {
+    "subtitles": "sound.boykisser.chipi_chipi_chapa_chapa",
+    "sounds": [
+      "boykisser:boykisser"
+    ]
   }
 }

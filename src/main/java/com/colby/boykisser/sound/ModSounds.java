@@ -19,6 +19,8 @@ public class ModSounds {
 
     public static final RegistryObject<SoundEvent> METAL_DETECTOR_FOUND_ORE = registerSoundEvents("metal_detector_found_ore");
 
+    public static final RegistryObject<SoundEvent> BOYKISSER = registerSoundEvents("boykisser");
+
     public static final ForgeSoundType SOUND_BLOCK_SOUNDS = new ForgeSoundType(1f, 1f,
             ModSounds.METAL_DETECTOR_FOUND_ORE, ModSounds.METAL_DETECTOR_FOUND_ORE, ModSounds.METAL_DETECTOR_FOUND_ORE,
             ModSounds.METAL_DETECTOR_FOUND_ORE, ModSounds.METAL_DETECTOR_FOUND_ORE);

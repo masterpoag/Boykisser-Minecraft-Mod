@@ -25,6 +25,11 @@ public class ModBlocks {
                 .strength(6f).requiresCorrectToolForDrops())
     );
 
+    public static final RegistryObject<Block> COMPRESSED_BOYKISSERIUM_BLOCK = registerBlock("compressed_boykisserium_block",
+            ()-> new com.colby.boykisser.block.SoundBlock2(BlockBehaviour.Properties.copy(Blocks.OBSIDIAN)
+                    .strength(8f).requiresCorrectToolForDrops())
+    );
+
     public static final RegistryObject<Block> RAW_BOYKISSERIUM_BLOCK = registerBlock("raw_boykisserium_block",
             ()-> new Block(BlockBehaviour.Properties.copy(Blocks.STONE)
                     .strength(6f).requiresCorrectToolForDrops())
